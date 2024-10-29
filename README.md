@@ -68,6 +68,7 @@ Access our interactive game to experience the geolocation challenge with EUGuess
 
 ## 📦 Access to Datasets and Models
 
-For access to the datasets and models used in this project, please contact the contributors via email.
+To access the datasets and models used in this project, please contact the contributors via email.
+
 ---
 
