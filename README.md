@@ -64,3 +64,10 @@ Geolocating random images is complex due to the diversity of landscapes and simi
 
 Access our interactive game to experience the geolocation challenge with EUGuess images!
 
+---
+
+## 📦 Access to Datasets and Models
+
+For access to the datasets and models used in this project, please contact the contributors via email.
+---
+
